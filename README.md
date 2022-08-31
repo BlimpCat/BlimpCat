@@ -7,5 +7,3 @@
 - 💬 Ask me about Kingdom Hearts lore when you can't sleep, you will fall asleep soon.
 - ⚡ Fun fact: My favorite fun facts are the not-so-fun ones.
 
-
-<src="https://github.com/JShull/GAME395_Unity/blob/main/Docs/Images/CatLoot-01.png">
