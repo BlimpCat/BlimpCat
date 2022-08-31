@@ -8,4 +8,4 @@
 - ⚡ Fun fact: My favorite fun facts are the not-so-fun ones.
 
 
-<src"https://github.com/JShull/GAME395_Unity/blob/main/Docs/Images/CatLoot-01.png">
+<src="https://github.com/JShull/GAME395_Unity/blob/main/Docs/Images/CatLoot-01.png">
