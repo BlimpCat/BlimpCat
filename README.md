@@ -7,6 +7,4 @@
 - 💬 Ask me about Kingdom Hearts lore when you can't sleep, you will fall asleep soon.
 - ⚡ Fun fact: I learned how to sew because I couldn't find a stuffed animal of a turtle duck from ATLA, so I made my own.
 
-![Alt Text](https://gfycat.com/lankyallboubou.gif)
-
-![Alt Text](https://thumbs.gfycat.com/LankyAllBoubou-mobile.gif)
+![Alt Text]([https://gfycat.com/lankyallboubou.gif](https://thumbs.gfycat.com/LankyAllBoubou-max-1mb.gif))
